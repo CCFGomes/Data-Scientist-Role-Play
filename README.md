@@ -1,6 +1,4 @@
-# Data-Scientist-Role-Play
-
-# Yelp Dataset Analysis
+# Yelp InsightX
 
 ## Introduction
 This README provides an overview of the analysis conducted on the Yelp dataset, focusing on profiling, understanding, and deriving insights from the data. The analysis consists of two parts: 
